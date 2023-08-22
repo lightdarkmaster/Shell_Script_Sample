@@ -12,3 +12,5 @@ or run this python file----
 
 # Running a Keylogger python file
 -- run the keylogger.py
+
+# Creating and Updating Registry Keys and Values
