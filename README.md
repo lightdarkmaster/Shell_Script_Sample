@@ -6,3 +6,6 @@ chmod +x login.sh
 
 ./login.sh
 
+
+or run this python file----
+# python automate_login.py
