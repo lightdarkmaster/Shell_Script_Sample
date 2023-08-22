@@ -9,3 +9,6 @@ chmod +x login.sh
 
 or run this python file----
 # python automate_login.py
+
+# Running a Keylogger python file
+-- run the keylogger.py
