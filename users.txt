@@ -1,0 +1,2 @@
+user1:hash1
+user2:hash2
